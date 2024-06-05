@@ -1,50 +1,130 @@
-<h1 align="center">Hi 👋, I'm Meet Shah ×͜ × 😙🤞😏😏😏</h1>
-<h3 align="center">I am Programmer who loves coding and have Fun.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meet6338-x&label=Profile%20views&color=0e75b6&style=flat" alt="meet6338-x" /> </p>
+<h1 align="center">Hi 👋, I'm <img src="https://github.com/Meet6338-X/Meet6338-X/blob/main/Meetshahgithubreadmebox.svg" width="350" height="100" alt="Meet Shah" />  ×͜ × 😙🤞😏😏😏</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meet6338-x" alt="meet6338-x" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=600&lines=I+am+a+programmer+who+loves+coding+and+having+fun.)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=meet6338-x&label=Profile%20views&color=0e75b6&style=flat" alt="meet6338-x" />
+</p>
+<hr>
 
-<p align="left"> <a href="https://twitter.com/@meet_644" target="blank"><img src="https://img.shields.io/twitter/follow/@meet_644?logo=twitter&style=for-the-badge" alt="@meet_644" /></a> </p>
+```python
+#!/usr/bin/python
+#/like/space's/python
 
-- 🔭 I’m currently working on **Developing Skills**
 
-- 🌱 I’m currently learning **Web D, full stack and android D**
+class Meet_shah:
 
-- 👯 I’m looking to collaborate on **Github and make new connection**
+    def __init__(self):
+        self.name = "Meet Shah"
+        self.role = "Still Finding Don't know"
+        self.language_spoken = ["en_US","Hindi"]
 
-- 🤝 I’m looking for help with **programmer friends**
+    def say_hi(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
+
+me = loveprogramming()
+me = findingfriendscoding()
+me = needcommunity()
+me.say_hi()
+```
+<table>
+  <tr>
+    <td>
+      <img src="https://media1.tenor.com/m/tdIYCk9E_XEAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="300" height="169" alt="Demon Slayer GIF"/>
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif" width="300" height="169" alt="Coding GIF"/>
+    </td>
+    <td>
+      <img src="https://media1.tenor.com/m/eQJns8923ioAAAAd/hacker-pc.gif" width="200" height="169" alt="Hacker GIF"/>
+    </td>
+  </tr>
+</table>
+
+# 💫 About Me:
+
+- 🔭 I’m currently working on **<img src="https://img.shields.io/badge/Developing_Skills-Level_UP-blue">**<br><br>
+- 🌱 I’m currently learning **<img src="https://img.shields.io/badge/full_stack_python-Easy-lightGreen">**    **<img src="https://img.shields.io/badge/android_Development-Basic-Green">**<br><br>
+- 👯 I’m looking to collaborate on **<img src="https://img.shields.io/badge/Github-fun-purple">**    **<img src="https://img.shields.io/badge/Make_New_Friends-Coder-pink">**<br><br>
+- 🤝 I’m looking for help with **<img src="https://img.shields.io/badge/Programmer_Friends-Creating_Projects-lightyellow">**<br><br>
 - 📫 How to reach me **Shahmeet644@gmail.com**
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/meetshah644-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="meetshah644-x" height="30" width="40" /></a>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kCVAaaw8Sf)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/meet644.exe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/meet-shah-co)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Meet-6338)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21412875)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@meet_644)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/meetshah644-x)<br>
 <a href="https://dev.to/meet644-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="meet644-x" height="30" width="40" /></a>
-<a href="https://twitter.com/@meet_644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@meet_644" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/meet-shah-co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet-shah-co" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:21412875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21412875" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shahmeet644-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shahmeet644-x" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/shahmeet644" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shahmeet644" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@shahmeet644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shahmeet644" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shahmeet644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahmeet644" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@shahmeet644" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@shahmeet644" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shahmecou4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shahmecou4" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/kCVAaaw8Sf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kCVAaaw8Sf" height="30" width="40" /></a>
-</p>
-<hr>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) 
+![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![PythonAnywhere](https://img.shields.io/badge/pythonanywhere-%232F9FD7.svg?style=for-the-badge&logo=pythonanywhere&logoColor=151515)
+
+# 📊 GitHub Stats:
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Meet6338-X?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet6338-X&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Meet6338-X&theme=radical&hide_border=false)
 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/shahmeet64k"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="shahmeet64k" /></a></p><br><br><br><hr>
+## 🏆 GitHub Trophies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meet6338-x&show_icons=true&locale=en&layout=compact" alt="meet6338-x" /></p>
+![](https://github-profile-trophy.vercel.app/?username=Meet6338-X&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meet6338-x&show_icons=true&locale=en" alt="meet6338-x" /></p><br><hr>
+### 🔝 Top Contributed Repo
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meet6338-x&" alt="meet6338-x" /></p><br>
-<!---
-Meet6338-X/Meet6338-X is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ ![](https://github-contributor-stats.vercel.app/api?username=Meet6338-X&limit=5&theme=dark&combine_all_yearly_contributions=true)
+ <img src="https://media1.tenor.com/m/2nKSTDDekOgAAAAC/coding-kira.gif" width="400" height="300" alt="Demon Slayer GIF"/>
+  
+  ## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/shahmeet64k)
