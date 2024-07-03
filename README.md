@@ -27,6 +27,7 @@ me = findingfriendscoding()
 me = needcommunity()
 me.say_hi()
 ```
+
 <table>
   <tr>
     <td>
@@ -113,7 +114,12 @@ me.say_hi()
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Meet6338-X?cardType=github&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meet6338-X&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br>
+
+<img src="https://wakatime.com/share/@9e261c0b-2a41-4764-8965-69095e1d5121/dfae0aad-4793-428d-b792-d0c9db83c8dc.svg" width="800">
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Meet6338-X&theme=radical&hide_border=false)
+
+
 
 
 ## 🏆 GitHub Trophies
