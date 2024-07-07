@@ -6,6 +6,16 @@
 </p>
 <hr>
 
+
+### 📫 Like to meet me?
+
+Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
+
+<a href="https://calendly.com/meet6338/15-min-meeting" target="_blank"><img width="498" alt="meet_link" src="https://github.com/Meet6338-X/Meet6338-X/blob/main/15minmeetingsetter.svg"></a>
+
+
+<hr>
+
 ```python
 #!/usr/bin/python
 #/like/space's/python
@@ -27,21 +37,6 @@ me = findingfriendscoding()
 me = needcommunity()
 me.say_hi()
 ```
-
-<table>
-  <tr>
-    <td>
-      <img src="https://media1.tenor.com/m/tdIYCk9E_XEAAAAC/demon-slayer-kimetsu-no-yaiba.gif" width="300" height="169" alt="Demon Slayer GIF"/>
-    </td>
-    <td>
-      <img src="https://media1.tenor.com/m/-buzIaq-QeoAAAAC/code-coding.gif" width="300" height="169" alt="Coding GIF"/>
-    </td>
-    <td>
-      <img src="https://media1.tenor.com/m/eQJns8923ioAAAAd/hacker-pc.gif" width="200" height="169" alt="Hacker GIF"/>
-    </td>
-  </tr>
-</table>
-
 # 💫 About Me:
 
 - 🔭 I’m currently working on **<img src="https://img.shields.io/badge/Developing_Skills-Level_UP-blue">**<br><br>
