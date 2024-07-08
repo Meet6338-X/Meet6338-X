@@ -115,7 +115,7 @@ me.say_hi()
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Meet6338-X&theme=radical&hide_border=false)
 
 
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/shahmeet644?theme=dark&font=Noto%20Sans%20Georgian&ext=activity)
 
 ## 🏆 GitHub Trophies
 
