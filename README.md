@@ -17,6 +17,11 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 <hr>
 
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683547373601/25ecb286-fc4c-4c87-963b-32294d945322.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" target="_blank" width="600">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D24B&background=FFFFFF00&center=true&width=435&lines=Welcome+to+my+Profile)](https://git.io/typing-svg)
+
+
 ```python
 #!/usr/bin/python
 #/like/space's/python
